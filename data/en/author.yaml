@@ -1,0 +1,18 @@
+# some information about you
+name: "Aoi Makino"
+nickname: "Aoi"
+image: "images/profile.png"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+
+# give your contact information. they will be used in the footer
+contactInfo:
+  email: "a.makino7@gmail.com"
+  phone: "+81-80-1784-7236"
+
+# a summary of what you do
+summary:
+- I am a data scientist.
+- I work with Go
+- I love to work with some fun projects
