@@ -1,7 +1,7 @@
 # some information about you
 name: "Aoi Makino"
 nickname: "Aoi"
-image: "images/profile.png"
+image: "images/author/profile.png"
 
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
