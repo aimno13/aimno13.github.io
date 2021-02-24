@@ -47,21 +47,21 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported color: blue, yellow, pink, green
 softSkills:
-- name: Python
-  percentage: 90
+- name: Leadership
+  percentage: 85
   color: blue
-- name: RDB
-  percentage: 80
-  color: green
-- name: Firebase
-  percentage: 75
+- name: Team Work
+  percentage: 85
   color: yellow
-- name: Flutter
-  percentage: 80
-  color: blue
-- name: React
-  percentage: 70
-  color: yellow
-- name: Ruby on Rails
-  percentage: 60
+- name: Communication
+  percentage: 85
   color: pink
+- name: Hard Working
+  percentage: 95
+  color: green
+- name: Fast Learner
+  percentage: 95
+  color: sky
+- name: Problem Solving
+  percentage: 95
+  color: orange
