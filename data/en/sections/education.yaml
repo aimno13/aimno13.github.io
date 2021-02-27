@@ -1,0 +1,38 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Master's degree in Graduate School of Engineering, Majored in Control Engineering.
+  icon: fa-graduation-cap
+  timeframe: 2017-2020
+  institution:
+    name: Kyushu University
+    url: "https://www.kyushu-u.ac.jp/ja/"
+  publications: #(optional)
+  - title: Measurement of Contact Force and Contact Pressure Distribution Applied by Passively Deformable Soft Finger, 2020 IEEE/SICE International Symposium on System Integration (SII), Honolulu, HI, USA, 2020.
+    url: "https://ieeexplore.ieee.org/document/9026300/"
+  - title: 受動変形柔軟ハンドがワークに与える押付力と接触圧分布測定, 第37回日本ロボット学会学術講演会'19, 2019.09.
+    url: "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201902238200616476"
+  - title: 受動変形柔軟ハンドの内部圧力制御による最小負荷包み込み把持, 第35回日本ロボット学会学術講演会'17, 2017.09.
+    url: "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201702266045373292"
+  - title: ハンド内部の流体量制御による受動変形柔軟ハンド最小負荷包み込み制御, ロボティクス・メカトロニクス講演会講演概要集, 2017
+    url: "https://www.jstage.jst.go.jp/article/jsmermd/2017/0/2017_2P1-B12/_article/-char/ja/"
+  extracurricularActivities: #(optional)
+  - Took part in "Vulcanus in Europe" program 2018 which contains 4 months language cource (in Bournemouth, the UK) and 8 month company traineeship (in Leuven, Belgium).
+
+- name: Bachelor's degree in School of Engineering
+  icon: fa-university
+  timeframe: 2013-2017
+  institution:
+    name: Kyushu University
+    url: "https://www.kyushu-u.ac.jp/ja/"
+  extracurricularActivities: #(optional)
+  - Belonged to yacht club in Kyushu University.
