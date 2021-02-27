@@ -1,0 +1,58 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: IBM Japan, Ltd.
+    url: "https://www.ibm.com/jp-ja"
+    location: Tokyo, Japan
+    # company overview
+    overview: IBM is a global technology company that provides hardware, software, cloud-based services, and cognitive computing.
+  positions:
+  - designation: Data Scientist
+    start: April 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Analyze and visualize data.
+    - Develop machine learning and deep learning models.
+    - Design database and systems.
+    - Implement AI into systems.
+    - Make proposals to customers as a consultant.
+
+
+- company:
+    name: ν Sports tracking Lab
+    url: "https://n-sportstracking-lab.com/"
+    location: Kanagawa, Japan
+    overview: Supporting to develop the marine vessels management system using GPS which will be used in Olympic Tokyo2020 sailing event.
+  positions:
+  - designation: Software Engineer (Internship)
+    start: May 2020
+    end: December 2020
+    responsibilities:
+    - Develop frontend components using React which contains leaflet map.
+    - Develop server side logics and some test code using Ruby on Rails.
+
+
+- company:
+    name: Siemens PLM Software
+    url: "https://www.plm.automation.siemens.com/global/en/"
+    location: Leuven, Belgium
+    overview: Supporting controller development in the design process of mechatronic systems.
+  positions:
+  - designation: Internship
+    start: August 2018
+    end: March 2019
+    responsibilities:
+    - Develop optimal control for hybrid powertrain.
+    - Investigate Dx use case for suspension system.
