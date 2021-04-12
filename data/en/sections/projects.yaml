@@ -1,0 +1,29 @@
+# section information
+section:
+  name: Works
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+  - name: All
+    filter: "all"
+  - name: Professional
+    filter: "professional"
+  - name: Hobby
+    filter: "hobby"
+
+# your projects
+projects:
+  - name: YouRegatta
+    logo: images/sections/projects/youregatta.png
+    role: Product Owner
+    timeline: "November 2020 - March 2021"
+    # repo: ""
+    url: "https://apps.apple.com/app/youregatta/id1548244523"
+    summary: Regatta information app for iOS, Android and Web.
+    tags: ["hobby"]

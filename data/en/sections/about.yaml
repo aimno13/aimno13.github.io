@@ -18,50 +18,50 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I have been working as a data scientist since April 2020. I mainly analyze data and develop machine learning or deep learning models for SFA applications. I am interested in natural language processing technology. Also, I like to develop automation systems and mobile/web applications with Flutter.'
+summary: "I have been working as a data scientist since April 2020. I mainly analyze data and develop machine learning or deep learning models for SFA applications. I am interested in natural language processing technology. Also, I like to develop automation systems and mobile/web applications with Flutter."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Email
-  icon: "fas fa-envelope"
-  url: "a.makino7@gmail.com"
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "a.makino7@gmail.com"
 
-- name: Github
-  icon: "fab fa-github"
-  url: "https://github.com/aimno13"
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://github.com/aimno13"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "https://www.facebook.com/aoi.makino.77"
+  - name: Facebook
+    icon: "fab fa-facebook"
+    url: "https://www.facebook.com/aoi.makino.77"
 
-- name: Instagram
-  icon: "fab fa-instagram"
-  url: "https://www.instagram.com/aimno13/"
+  - name: Instagram
+    icon: "fab fa-instagram"
+    url: "https://www.instagram.com/aimno13/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "https://twitter.com/aimno13"
+  - name: Twitter
+    icon: "fab fa-twitter"
+    url: "https://twitter.com/aimno13"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported color: blue, yellow, pink, green
 softSkills:
-- name: Leadership
-  percentage: 85
-  color: blue
-- name: Team Work
-  percentage: 85
-  color: yellow
-- name: Communication
-  percentage: 85
-  color: pink
-- name: Hard Working
-  percentage: 95
-  color: green
-- name: Fast Learner
-  percentage: 95
-  color: sky
-- name: Problem Solving
-  percentage: 95
-  color: orange
+  - name: Leadership
+    percentage: 85
+    color: blue
+  - name: Team Work
+    percentage: 85
+    color: yellow
+  - name: Communication
+    percentage: 85
+    color: pink
+  - name: Hard Working
+    percentage: 95
+    color: green
+  - name: Fast Learner
+    percentage: 95
+    color: sky
+  - name: Problem Solving
+    percentage: 95
+    color: orange

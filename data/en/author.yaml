@@ -13,6 +13,6 @@ contactInfo:
 
 # a summary of what you do
 summary:
-- I am a data scientist.
-- I work with Python.
-- I love to work with some fun projects
+  - I am a data scientist.
+  - I work with Python.
+  - I love to work with some fun projects

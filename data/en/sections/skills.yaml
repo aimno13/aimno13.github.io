@@ -11,47 +11,46 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Python
-  logo: "/images/sections/skills/python.png"
-  summary: "Experienced with analyze and visualize data in business. Also, have experience of developing ML or DL models."
-  url: "https://www.python.org/"
+  - name: Python
+    logo: "/images/sections/skills/python.png"
+    summary: "Experienced with analyze and visualize data in business. Also, have experience of developing ML or DL models."
+    url: "https://www.python.org/"
 
-- name: Flutter
-  logo: "/images/sections/skills/flutter.png"
-  summary: "Experienced with iOS / Android application development. Also, have experience of developing apps using Flutter-Web."
-  url: "https://flutter.dev/"
+  - name: Flutter
+    logo: "/images/sections/skills/flutter.png"
+    summary: "Experienced with iOS / Android application development. Also, have experience of developing apps using Flutter-Web."
+    url: "https://flutter.dev/"
 
-- name: Firebase
-  logo: "/images/sections/skills/firebase.png"
-  summary: "Using Authentification, Cloud Firestore, Storage, Hosting, etc in Flutter apps. Experienced with API processing."
-  url: "https://firebase.google.com/"
+  - name: Firebase
+    logo: "/images/sections/skills/firebase.png"
+    summary: "Using Authentification, Cloud Firestore, Storage, Hosting, etc in Flutter apps. Experienced with API processing."
+    url: "https://firebase.google.com/"
 
-- name: React
-  logo: "/images/sections/skills/react.png"
-  summary: "Have experience of developing a web app with React as an internship. Capable of components for leaflet maps."
-  url: "https://ja.reactjs.org/"
+  - name: React
+    logo: "/images/sections/skills/react.png"
+    summary: "Have experience of developing a web app with React as an internship. Capable of components for leaflet maps."
+    url: "https://ja.reactjs.org/"
 
-- name: Ruby on Rails
-  logo: "/images/sections/skills/rubyonrails.png"
-  summary: "Know basic Ruby on Rails programming. Capable of creating web application with ruby on rails from scratch."
-  url: "https://rubyonrails.org/"
+  - name: Ruby on Rails
+    logo: "/images/sections/skills/rubyonrails.png"
+    summary: "Know basic Ruby on Rails programming. Capable of creating web application with ruby on rails from scratch."
+    url: "https://rubyonrails.org/"
 
-- name: Cloud Computing
-  logo: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, IBM Cloud, etc. in business use."
+  - name: Cloud Computing
+    logo: "/images/sections/skills/cloud.png"
+    summary: "Worked with most of the major clouds such as GCP, AWS, IBM Cloud, etc. in business use."
 
-- name: Docker
-  logo: "/images/sections/skills/docker.svg"
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+  - name: Docker
+    logo: "/images/sections/skills/docker.svg"
+    summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+    url: "https://www.docker.com/"
 
-- name: Linux
-  logo: "/images/sections/skills/linux.png"
-  summary: "Using as the main operating system in business use. Capable of writing bash/shell scripts."
-  url: "https://www.linux.org/"
+  - name: Linux
+    logo: "/images/sections/skills/linux.png"
+    summary: "Using as the main operating system in business use. Capable of writing bash/shell scripts."
+    url: "https://www.linux.org/"
 
-- name: Git
-  logo: "/images/sections/skills/git.png"
-  summary: "Experienced with git-based development with team in business use. Mostly, use Github."
-  url: "https://git-scm.com/"
-
+  - name: Git
+    logo: "/images/sections/skills/git.png"
+    summary: "Experienced with git-based development with team in business use. Mostly, use Github."
+    url: "https://git-scm.com/"
