@@ -7,5 +7,5 @@ description: Portfolio and personal blog of Aoi Makino.
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
-  - name: Link
-    url: https://toha-guides.netlify.app/posts/
+  # - name: Link
+  #   url: https://toha-guides.netlify.app/posts/

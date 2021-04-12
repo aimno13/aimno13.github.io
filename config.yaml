@@ -36,8 +36,8 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo URL and branch of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
-  gitBranch: main
+  gitRepo: https://github.com/aimno13/aimno13.github.io
+  gitBranch: source
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
